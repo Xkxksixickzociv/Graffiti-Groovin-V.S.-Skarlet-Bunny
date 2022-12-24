@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BG.png">
+<SubTexture name="bg0000" x="0" y="0" width="1425" height="895" frameX="0" frameY="0" frameWidth="1425" frameHeight="895" />
+<SubTexture name="bg_lightning 0000" x="1425" y="0" width="1425" height="895" frameX="0" frameY="0" frameWidth="1429" frameHeight="898" />
+<SubTexture name="bg_lightning 0001" x="1425" y="0" width="1425" height="895" frameX="0" frameY="0" frameWidth="1429" frameHeight="898" />
+<SubTexture name="bg_lightning 0002" x="0" y="895" width="1425" height="895" frameX="0" frameY="0" frameWidth="1429" frameHeight="898" />
+<SubTexture name="bg_lightning 0003" x="1425" y="895" width="1425" height="895" frameX="0" frameY="0" frameWidth="1429" frameHeight="898" />
+<SubTexture name="bg_lightning 0004" x="0" y="1790" width="1425" height="895" frameX="0" frameY="0" frameWidth="1429" frameHeight="898" />
+<SubTexture name="bg_lightning 0005" x="1425" y="1790" width="1425" height="895" frameX="0" frameY="0" frameWidth="1429" frameHeight="898" />
+<SubTexture name="bg_lightning 0006" x="2850" y="0" width="1425" height="895" frameX="0" frameY="0" frameWidth="1429" frameHeight="898" />
+<SubTexture name="bg_lightning 0007" x="2850" y="895" width="1425" height="895" frameX="0" frameY="0" frameWidth="1429" frameHeight="898" />
+<SubTexture name="bg_lightning 0008" x="2850" y="1790" width="1425" height="895" frameX="0" frameY="0" frameWidth="1429" frameHeight="898" />
+<SubTexture name="bg_lightning 0009" x="0" y="2685" width="1425" height="895" frameX="0" frameY="0" frameWidth="1429" frameHeight="898" />
+<SubTexture name="bg_lightning 0010" x="1425" y="2685" width="1425" height="895" frameX="0" frameY="0" frameWidth="1429" frameHeight="898" />
+<SubTexture name="bg_lightning 0011" x="2850" y="2685" width="1425" height="895" frameX="0" frameY="0" frameWidth="1429" frameHeight="898" />
+</TextureAtlas>
